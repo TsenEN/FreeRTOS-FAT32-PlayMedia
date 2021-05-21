@@ -1,0 +1,4 @@
+File_Handling.c:39:9:AUDIO_StorageParse	88	static
+File_Handling.c:87:10:AUDIO_GetWavObjectNumber	8	static
+File_Handling.c:95:6:Mount_USB	8	static
+File_Handling.c:100:6:Unmount_USB	8	static

@@ -1,0 +1,9 @@
+printf.h:28:1:__io_putchar	16	static
+fops.c:13:6:exf_getfree	24	static
+fops.c:31:6:exf_mount	8	static
+fops.c:36:9:exf_open	16	static
+fops.c:41:9:exf_write	32	static
+fops.c:47:9:exf_read	32	static
+fops.c:53:9:exf_lseek	16	static
+fops.c:58:6:exf_close	8	static
+fops.c:63:6:FATFS_RdWrTest	40	static
